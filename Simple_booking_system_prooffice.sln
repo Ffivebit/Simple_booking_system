@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple_booking_system_prooffice", "Simple_booking_system_prooffice\Simple_booking_system_prooffice.csproj", "{0BFA0D7B-8FFF-474C-812E-8144B85471F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{30703873-5CE8-4698-97AA-7E48069434F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70BB99B2-2DBA-4761-88FE-2370E8264FD2}"
+	ProjectSection(SolutionItems) = preProject
+		LocalDB.db = LocalDB.db
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFA0D7B-8FFF-474C-812E-8144B85471F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFA0D7B-8FFF-474C-812E-8144B85471F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFA0D7B-8FFF-474C-812E-8144B85471F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFA0D7B-8FFF-474C-812E-8144B85471F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30703873-5CE8-4698-97AA-7E48069434F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30703873-5CE8-4698-97AA-7E48069434F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30703873-5CE8-4698-97AA-7E48069434F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30703873-5CE8-4698-97AA-7E48069434F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2AF831-B268-4E19-B927-2CE38DDC2926}
+	EndGlobalSection
+EndGlobal
